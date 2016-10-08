@@ -192,7 +192,7 @@ input[type=checkbox].mob-check:disabled+.mob-validate,input[type=radio].mob-radi
 .mob-panel{padding:0.01em 16px;margin-top:16px!important;margin-bottom:16px!important}
 .mob-example{background-color:#f1f1f1;padding:0.01em 16px}
 .mob-code,.mob-codespan{font-family:Consolas,"courier new";font-size:16px}
-.mob-code{line-height:1.4;width:auto;background-color:#fff;padding:8px 12px;border-left:4px solid #4CAF50;word-wrap:break-word}
+.mob-code{line-height:1.4;width:auto;background-color:#fff;padding:8px 12px;border-left:4px solid #f5411e;word-wrap:break-word}
 .mob-codespan{color:crimson;background-color:#f1f1f1;padding-left:4px;padding-right:4px;font-size:110%}
 .mob-example,.mob-code{margin:20px 0}
 .mob-card{border:1px solid #ccc}
