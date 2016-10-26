@@ -1,6 +1,6 @@
-var perPage=3;
+var perPage=7;
 
-    var numPages=3;
+    var numPages=5;
     var firstText ='First';
     var lastText ='Last';
     var prevText ='Prev';
